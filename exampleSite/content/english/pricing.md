@@ -41,6 +41,5 @@ pricing:
     - 24/7 Tech Support
 cta:
   enable: true
-draft: true
 
 ---
