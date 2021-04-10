@@ -40,6 +40,6 @@ pricing:
     - Email Marketing
     - 24/7 Tech Support
 cta:
-  enable: true
+  enable: false
 
 ---
